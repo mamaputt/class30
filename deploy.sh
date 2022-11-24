@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 deploy application
 deploy python apps
 deploy in the dev env
 do not hard code
 deployment5 master
+deployment4
+
