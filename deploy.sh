@@ -5,4 +5,5 @@ deploy in the dev env
 do not hard code
 deployment5 master
 deployment4
+deploy to staging
 
