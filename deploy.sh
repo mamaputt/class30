@@ -7,3 +7,4 @@ deployment4
 deploy to staging
 echo good job.
 tested and accepted
+bugs removed
